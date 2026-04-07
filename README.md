@@ -1,5 +1,5 @@
 # rekenen
 
-math lib to learn rust
+a math library for me to learn rust
 
-don't recommend using it :D
+don't recommend anyone else using it :D
